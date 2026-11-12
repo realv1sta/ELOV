@@ -16,4 +16,6 @@ SigLevel = Optional TrustAll
 Server = https://realv1sta.github.io/ELOV
 ```
 
+then ```sudo pacman -Sy```
+
 and uh yeah thats all
